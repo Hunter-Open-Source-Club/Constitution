@@ -4,7 +4,6 @@
 
 For the purposes of this document let the term Open Source include both permissive (copy center) and reciprocal (copy left) licenses.
 
-
 ## Article I Name
 
 The name of this organization will be Hunter's **Open Source Club** or **OSC**.
@@ -31,8 +30,13 @@ To acheive these goals, the club will...
 
  ## Article III Membership
  
-*Students who are enrolled in any division are eligible for membership in any organization, but you can add that they must have an interest in the purpose of the group, or fulfill certain special requirements such as musical ability for a choral group, etc. A minimum of ten currently registered students are required for chartering.*
-
+1. Membership is granted to any person in the Hunter College Community, regardless of sex, gender identity, sexual orientation, race, ethnicity, or disability.
+1. Voting membership is granted to all members.
+1. All members should make an effort to participate in the community and commit to sharing knowledge for the betterment of the community.
+1. Voting membership will be suspended in the case of
+  1. a vote equal to or exceeding two-thirds of voting members, or
+  1. any diciplinary action by Hunter College against a member after due process.
+  
 ## Article IV Officers
 *In this article you should include sections: 1) Listing of officers, 2) Describe the method of nomination and election of officers, 3) Describe the duties of the elected officers. 4) Describe how officers may be removed/impeached.*
 
