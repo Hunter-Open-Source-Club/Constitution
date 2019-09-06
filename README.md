@@ -1,2 +1,2 @@
 # Constitution
-Home of constition, code of conduct, and other fundamental founding works of the club.
+Home of the constitution, code of conduct, and other fundamental founding works of the club.

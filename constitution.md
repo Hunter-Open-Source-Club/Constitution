@@ -49,3 +49,17 @@ To acheive these goals, the club will...
 *This article should state the portion of the membership necessary to constitute a quorum.*
 ## Article VIII Amendment
 *This article should describe the procedure for proposing and voting upon amendments to the constitution.*
+
+## Article IX Ideology
+
+### Preamble
+
+It is quite possible that much of our intended audience is not familiar with the concept of "Open Source". That won't be an issue, however, as the very nature of the culture propogated by the Open Source movement is defined by inclusivity, freedom, and respect. All are welcome, and all will learn in due time.
+
+### Definition
+
+Literally interpreted, the term 'Open Source' is relatively self explanatory -- it is an adjective used to describe code which is available for view and use by anybody (**bonus**: code written by programmers is known as *source code*, which explains why the word *source* is included). Proponents of Open Source are drawn to it for a multitude of reasons, whether due to its inherent practicality (*"given enough eyeballs, all bugs are shallow"*), or from the point of view of social justice, as the Open Source community tends to be especially welcoming of those who have been historically marginalized.
+
+### History
+
+Many great people have been involved in the creation of such a radical movement (yes, at the time of its inception the majority of businesses viewed software as something inherently proprietary). The history of computer science in general is very rich and dense, full of intriguing characters and lore -- the Open Source movement is no exception. The immediate ancestor of Open Source, namely Free Software, was a concept pioneered by the one and only Richard Stallman (henceforth referred to as RMS). CONTINUE
