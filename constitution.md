@@ -1,6 +1,6 @@
 # Constitution
 
-## Definitions
+## Article Z Definitions
 
 For the purposes of this document and unless the distinction is specified
 explicitly, let the term Open Source include both permissive (copy center) and
@@ -121,7 +121,9 @@ Many great people have been involved in the creation of such a radical movement
 (yes, at the time of its inception the majority of businesses viewed software as
 something inherently proprietary). The history of computer science in general is
 very rich and dense, full of intriguing characters and lore -- the Open Source
-movement is no exception. The immediate ancestor of Open Source, namely Free
-Software, was a concept pioneered by the one and only Richard Stallman.
+movement is no exception.
 
- Stallman's "Free Software" was "free as in speech." It differs from Open Souce   s
+It is left as an exercise to the reader to discover some of the many colorful
+characters -- and those that leave a stain on the Open Source movement. Although
+Open Source has its fair share of negative figures, we must take that as an
+opportunity to learn and grow together as a community.
