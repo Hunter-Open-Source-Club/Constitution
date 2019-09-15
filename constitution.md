@@ -2,15 +2,22 @@
 
 ## Definitions
 
-For the purposes of this document let the term Open Source include both
-permissive (copy center) and reciprocal (copy left) licenses.
+For the purposes of this document and unless the distinction is specified
+explicitly, let the term Open Source include both permissive (copy center) and
+reciprocal (copy left) licenses.
+
+Let Open Source refer to Creative Commons Licenses and other permissive licenses
+when referring to educational documents such as instructional textbooks.
 
 ## Article I Name
 
 The name of this organization will be Hunter's **Open Source Club** or **OSC**.
 
-The **Hunter Association for the Advancement of Free, Libre, and Open Source
-Software** was suggested, but discarded because of its verbosity.
+The Hunter **Association for the Advancement of Free, Libre, and Open Source
+Software** was suggested, but discarded because of its verbosity. Before it,
+Hunter's **Free Software Club** was suggested, but discarded because it is not
+inclusive of permissive licenses, and suffers from the ambiguity: free might be
+misinterpreted to be free of charge instead of software **free**dom.
 
 ## Article II Purpose
 
@@ -18,10 +25,12 @@ Software** was suggested, but discarded because of its verbosity.
 
 The club's primary goals are to...
 
-1. increase equitablity and accessiblity in coding and computer programming, 
+1. combat elitism, increase equitablility and promote accessibility in computer
+   coding and programming,
 1. bolster student portfolios and prepare students for a future in computer
    science, and
-1. improve adoption of Open Source Software and Creative.
+1. improve adoption of Open Source Software among technical students, professors
+   and creatives.
 
 ### Means
 
@@ -31,9 +40,25 @@ To acheive these goals, the club will...
    members and,
 1. host technical and behavioral workshops to advance carrer readiness for
    members, and
-1. build, deploy, and promote Open Source software and solutions.
+1. build, deploy, and promote Open Source Software and solutions for all target
+   groups.
 
- ## Article III Membership
+### Allied Goals
+
+1. Maintain a strong presence on social media and in physical advertising to
+   allow all Hunter students to benefit from club opportunities.
+1. Build, deploy, and maintain an Open Source Club website serving as a central
+   hub for resources on and off the campus.
+1. Lobby for and consolidate tools for the creation of a makerspace where
+   students can learn about physical computing and computer hardware in a
+   welcoming environment.
+1. Reach out to Hunter Professors, offer, and undertake the creation,
+   deployment, and maintenance of Open Source
+   1. class materials,
+   1. class websites, and
+   1. solutions to classroom problems or inefficiencies *sui generis*.
+
+## Article III Membership
  
 1. Membership is granted to any person in the Hunter College Community,
    regardless of sex, gender identity, sexual orientation, race, ethnicity, or
@@ -53,6 +78,7 @@ duties of the elected officers. 4) Describe how officers may be
 removed/impeached.*
 
 ## Article V Committees
+
 *This article may merely describe the method of elections or appointing any
 committees; or, it may list specific standing committees, their membership, and
 purpose.*
@@ -82,7 +108,7 @@ freedom, and respect. All are welcome, and all will learn in due time.
 
 Literally interpreted, the term 'Open Source' is relatively self explanatory --
 it is an adjective used to describe code which is available for view and use by
-anybody (**bonus**: code written by programmers is known as *source code*, which
+anybody (code written by programmers is known as *source code*, which
 explains why the word *source* is included). Proponents of Open Source are drawn
 to it for a multitude of reasons, whether due to its inherent practicality
 (*"given enough eyeballs, all bugs are shallow"*), or from the point of view of
@@ -96,5 +122,6 @@ Many great people have been involved in the creation of such a radical movement
 something inherently proprietary). The history of computer science in general is
 very rich and dense, full of intriguing characters and lore -- the Open Source
 movement is no exception. The immediate ancestor of Open Source, namely Free
-Software, was a concept pioneered by the one and only Richard Stallman
-(henceforth referred to as RMS). CONTINUE
+Software, was a concept pioneered by the one and only Richard Stallman.
+
+ Stallman's "Free Software" was "free as in speech." It differs from Open Souce   s
