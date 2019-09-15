@@ -38,7 +38,7 @@ To acheive these goals, the club will...
 
 1. provide technical assistance for computer science and math classes for
    members and,
-1. host technical and behavioral workshops to advance carrer readiness for
+1. host technical and behavioral workshops to advance career readiness for
    members, and
 1. build, deploy, and promote Open Source Software and solutions for all target
    groups.
