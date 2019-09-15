@@ -99,31 +99,11 @@ amendments to the constitution.*
 
 ### Preamble
 
-It is quite possible that much of our intended audience is not familiar with the
-concept of "Open Source". That won't be an issue, however, as the very nature of
-the culture propogated by the Open Source movement is defined by inclusivity,
-freedom, and respect. All are welcome, and all will learn in due time.
+It is quite possible that much of our intended audience is not familiar with the concept of "Open Source". That won't be an issue, however, as the very nature of the culture inherent to the Open Source movement is defined by inclusivity, freedom, and respect. All are welcome, and all will learn in due time.
 
 ### Definition
 
-Literally interpreted, the term 'Open Source' is relatively self explanatory --
-it is an adjective used to describe code which is available for view and use by
-anybody (code written by programmers is known as *source code*, which
-explains why the word *source* is included). Proponents of Open Source are drawn
-to it for a multitude of reasons, whether due to its inherent practicality
-(*"given enough eyeballs, all bugs are shallow"*), or from the point of view of
-social justice, as the Open Source community tends to be especially welcoming of
-those who have been historically marginalized.
+Literally interpreted, the term 'Open Source' is relatively self explanatory -- it is an adjective used to describe code which is available for view and use by anybody. Proponents of Open Source are drawn to it for a multitude of reasons, whether due to its inherent practicality (*"given enough eyeballs, all bugs are shallow"*), or its imperative of fostering [epistemic justice](https://en.wikipedia.org/wiki/Epistemic_injustice). 
 
 ### History
-
-Many great people have been involved in the creation of such a radical movement
-(yes, at the time of its inception the majority of businesses viewed software as
-something inherently proprietary). The history of computer science in general is
-very rich and dense, full of intriguing characters and lore -- the Open Source
-movement is no exception.
-
-It is left as an exercise to the reader to discover some of the many colorful
-characters -- and those that leave a stain on the Open Source movement. Although
-Open Source has its fair share of negative figures, we must take that as an
-opportunity to learn and grow together as a community.
+Though originally [free](https://en.wikipedia.org/wiki/Free_software#History), once software left the realm of academia and [hackers](https://en.wikipedia.org/wiki/Hacker_culture) it didn't take long for it to become a proprietary commodity. The resurgence of freedom and openness in software can be likened to the Enlightenment -- a period of time which followed the Dark ages, which, in turn, were preceded by the intellectualism of the ancient Greek and Roman Empires. Many great people have been involved in promoting these ideals -- we stand on the shoulders of giants, ordinary heroes. The history of Computer Science and Open Source is the people's history, and [there is much to be learned from those who preceded us](https://plato.stanford.edu/entries/history/#HegHis). It is left as an exercise to the reader to dig further into the culture of Free and Open Source software, you may want to start by looking [here](https://www.fsf.org) and [here](http://www.catb.org/~esr/writings/).
