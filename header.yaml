@@ -5,4 +5,5 @@ author: Executive Board of the OSC
 date: \today{}
 toc: true
 documentclass: book
+toc-depth: 1
 ---
