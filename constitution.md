@@ -19,14 +19,15 @@ Hunter's **Free Software Club** was suggested, but discarded because it is not
 inclusive of permissive licenses, and suffers from the ambiguity: free might be
 misinterpreted to be free of charge instead of software **free**dom.
 
-To not stray far from the topic, this distinction is clarified in *[Article IX
-Ideology]*.
+\marginpar{To not stray far from the topic, this distinction is clarified in *Article IX Ideology*.}
 
 ## Article II Purpose
 
 ### Inspiration
 
-
+This club was founded with inspiration from Professor Stewart Weiss, who
+teaches *Open Source Development Workshop* and encouraged the chartering
+process.
 
 ### Ends
 
@@ -63,7 +64,7 @@ To acheive these goals, the club will...
    welcoming environment.
 1. Reach out to Hunter Professors, offer, and undertake the creation,
    deployment, and maintenance of Open Source
-   a. class materials,
+   a. class instructional materials,
    a. class websites, and
    a. solutions to classroom problems or inefficiencies *sui generis*.
 
@@ -116,7 +117,7 @@ hours, and for calling special meetings.*
 
 
 | Standard        | Portion    |
-|-----------------+------------|
+|-----------------|------------|
 | Mere-Minority   | $\leq$ 25% |
 | Strict-Majority | > 50%      |
 | Super-Majority  | $\geq$ 75% |
