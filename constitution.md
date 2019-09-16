@@ -14,12 +14,13 @@ when referring to educational documents such as instructional textbooks.
 The name of this organization will be Hunter's **Open Source Club** or **OSC**.
 
 The Hunter **Association for the Advancement of Free, Libre, and Open Source
-Software** was suggested, but discarded because of its verbosity. Before it,
-Hunter's **Free Software Club** was suggested, but discarded because it is not
-inclusive of permissive licenses, and suffers from the ambiguity: free might be
-misinterpreted to be free of charge instead of software **free**dom.
+Software** was suggested, but ultimately discarded because of its verbosity.
+Before it, Hunter's **Free Software Club** was suggested, but discarded because
+it is not inclusive of permissive licenses, and suffers from the ambiguity: free
+might be misinterpreted to be free of charge instead of software **free**dom.
 
-\marginpar{To not stray far from the topic, this distinction is clarified in *Article IX Ideology*.}
+\marginpar{To not stray far from the topic, this distinction is clarified in
+Article IX Ideology.}
 
 ## Article II Purpose
 
@@ -142,7 +143,7 @@ enacting new rules. Let SLP consist of one or more of the following actions:
    a. A club member begins a petition,
    a. that petition gets 10 signatures, or 10 percent of the constituency,
    whichever amount is larger, and
-   a. more than  of the club's voting members approve it.
+   a. at least a Strict-Majority of the club's voting members approve it.
    
 *SLP* always requires an extra step of approval. 
 
