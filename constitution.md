@@ -46,7 +46,7 @@ To acheive these goals, the club will...
 
 1. provide technical assistance for computer science and math classes for
    members and,
-1. host technical and behavioral workshops to advance carrer readiness for
+1. host technical and behavioral workshops to advance career readiness for
    members, and
 1. build, deploy, and promote Open Source Software and solutions for all target
    groups.
@@ -101,6 +101,32 @@ The president must honor petitions and call a vote.
 The president may be impeached for not fulfilling presidential duties.
 
 ## Article V Committees
+
+As an Open Source community, it is important for us to collaborate with our members and the general Hunter College student/faculty base, especially in an organized and productive fashion. Therefore, we have defined three committees, each division responsible for certain tasks. These committees and their responsibilities are listed below.
+
+**1. Public Outreach**
+   * Maintain the Open Source Club website, with duties including (but not limited to) developing new sections/pages, and updating the site with new information
+   * Manage the mailing list and related technologies; formulate and send out emails
+   * Manage the club's social media presence and accounts
+   * Design visual and/or auditory content representative of the club (e.g. logos, flyers, posters, promotional/infomational videos
+   * Document relavant workshops/presentations in the form of videos or blogs (or other) and publish them online
+   * Reach out to established computer scientists (or other) to come speak/collaborate with the club
+   
+**2. Career Preparation**
+   * Host events for non-technical students introducing them to programming
+   * Host events on practical topics which may not be represented in the Computer Science curriculum, such as web development
+   * Lead workshops on small projects
+
+**3. Academic and Conceptual**
+   * Establish position of Grade Level Learners (GLL), students who do their assignments ahead of schedule and
+      1. reach out to professors to fix any problems with the assignments or autograders
+      2. use their expertise to help fellow students
+      3. gather and post online resources to help with assignments
+   * Host presentations, "talks", or other events sharing educational material (which need not necessarily be practical, but can instead be conceptual or simply cool)
+   * Propogate the ideals of the Open Source and/or Free software movements
+
+New committees may be created, existing committees may be dissolved, and responsibilities may be added, removed, or adjusted for any committee by following $PROCESS. These changes should be appended to the constitution by following the procedure specified in Article VIII Amendment.
+   
 
 ### Elections
 
@@ -173,24 +199,7 @@ freedom, and respect. All are welcome, and all will learn in due time.
 
 ### Definition
 
-Literally interpreted, the term 'Open Source' is relatively self explanatory --
-it is an adjective used to describe code which is available for view and use by
-anybody (code written by programmers is known as *source code*, which
-explains why the word *source* is included). Proponents of Open Source are drawn
-to it for a multitude of reasons, whether due to its inherent practicality
-(*"given enough eyeballs, all bugs are shallow"*), or from the point of view of
-social justice, as the Open Source community tends to be especially welcoming of
-those who have been historically marginalized.
+Literally interpreted, the term 'Open Source' is relatively self explanatory -- it is an adjective used to describe code which is available for view and use by anybody. Proponents of Open Source are drawn to it for a multitude of reasons, whether due to its inherent practicality (*"given enough eyeballs, all bugs are shallow"*), or its imperative of fostering [epistemic justice](https://en.wikipedia.org/wiki/Epistemic_injustice). 
 
 ### History
-
-Many great people have been involved in the creation of such a radical movement
-(yes, at the time of its inception the majority of businesses viewed software as
-something inherently proprietary). The history of computer science in general is
-very rich and dense, full of intriguing characters and lore -- the Open Source
-movement is no exception.
-
-It is left as an exercise to the reader to discover some of the many colorful
-characters -- and those that leave a stain on the Open Source movement. Although
-Open Source has its fair share of negative figures, we must take that as an
-opportunity to learn and grow together as a community.
+Though originally [free](https://en.wikipedia.org/wiki/Free_software#History), once software left the realm of academia and [hackers](https://en.wikipedia.org/wiki/Hacker_culture) it didn't take long for it to become a proprietary commodity. The resurgence of freedom and openness in software can be likened to the Enlightenment -- a period of time which followed the Dark ages, which, in turn, were preceded by the intellectualism of the ancient Greek and Roman Empires. Many great people have been involved in promoting these ideals -- we stand on the shoulders of giants, ordinary heroes. The history of Computer Science and Open Source is the people's history, and [there is much to be learned from those who preceded us](https://plato.stanford.edu/entries/history/#HegHis). It is left as an exercise to the reader to discover some of the many colorful characters -- and those that leave a stain on the Open Source movement. Although Open Source has its fair share of negative figures, we must take that as an opportunity to learn and grow together as a community.
