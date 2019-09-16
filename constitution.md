@@ -281,8 +281,11 @@ once software left the realm of academia and
 [hackers](https://en.wikipedia.org/wiki/Hacker_culture) it didn't take long for
 it to become a proprietary commodity. The resurgence of freedom and openness in
 software can be likened to the Enlightenment -- a period of time which followed
-the Dark ages, which, in turn, were preceded by the intellectualism of the
-ancient Greek and Roman Empires. Many great people have been involved in
+the Dark Ages, which, in turn, were preceded by the intellectualism of the
+ancient Greek and Roman Empires. These movements share more than similarly 
+structured histories -- many of the ideals put forward by the Free and Open Source 
+movements (such as the belief that knowledge should be free) originated in the 
+Enlightenment. Many great people have been involved in
 promoting these ideals -- we stand on the shoulders of giants, ordinary heroes.
 The history of Computer Science and Open Source is the people's history, and
 [there is much to be learned from those who preceded
