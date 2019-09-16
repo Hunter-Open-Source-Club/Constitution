@@ -105,38 +105,56 @@ The president may be impeached for not fulfilling presidential duties.
 
 As an Open Source community, it is important for us to collaborate with our members and the general Hunter College student/faculty base, especially in an organized and productive fashion. Therefore, we have defined three committees, each division responsible for certain tasks. These committees and their responsibilities are listed below.
 
-**1. Public Outreach**
-   * Maintain the Open Source Club website, with duties including (but not limited to) developing new sections/pages, and updating the site with new information
-   * Manage the mailing list and related technologies; formulate and send out emails
+1. Public Outreach
+   * Maintain the Open Source Club website, with duties including (but not
+     limited to) developing new sections/pages, and updating the site with new
+     information
+   * Manage the mailing list and related technologies; formulate and send out
+     emails
    * Manage the club's social media presence and accounts
-   * Design visual and/or auditory content representative of the club (e.g. logos, flyers, posters, promotional/infomational videos
-   * Document relavant workshops/presentations in the form of videos or blogs (or other) and publish them online
-   * Reach out to established computer scientists (or other) to come speak/collaborate with the club
+   * Design visual and/or auditory content representative of the club (e.g.
+     logos, flyers, posters, promotional/infomational videos
+   * Document relavant workshops/presentations in the form of videos or blogs
+     (or other) and publish them online
+   * Reach out to established computer scientists (or other) to come
+     speak/collaborate with the club
    
-**2. Career Preparation**
+2. Career Preparation
    * Host events for non-technical students introducing them to programming
-   * Host events on practical topics which may not be represented in the Computer Science curriculum, such as web development
+   * Host events on practical topics which may not be represented in the
+     Computer Science curriculum, such as web development
    * Lead workshops on small projects
 
-**3. Academic and Conceptual**
-   * Establish position of Grade Level Learners (GLL), students who do their assignments ahead of schedule and
-      1. reach out to professors to fix any problems with the assignments or autograders
+3. Academic and Ideological
+   * Establish position of Grade Level Leaders (GLL), students who do their
+     assignments ahead of schedule and
+      1. reach out to professors to fix any problems with the assignments or
+         autograders
       2. use their expertise to help fellow students
       3. gather and post online resources to help with assignments
-   * Host presentations, "talks", or other events sharing educational material (which need not necessarily be practical, but can instead be conceptual or simply cool)
-   * Propogate the ideals of the Open Source and/or Free software movements
+   * Host presentations, "talks", or other events sharing educational material
+     (which need not necessarily be practical, but can instead be conceptual or
+     simply cool)
+   * Propogate the ideals of the Open Source movements
 
-New committees may be created, existing committees may be dissolved, and responsibilities may be added, removed, or adjusted for any committee by following the Standard Legislative Process (SLP) defined in Article VII Quorum. These changes should be appended to the constitution by following the procedure specified in Article VIII Amendment.
+New committees may be created, existing committees may be dissolved, and
+responsibilities may be added, removed, or adjusted for any committee by
+following the Standard Legislative Process (SLP) defined in Article VII Quorum.
+These changes should be appended to the constitution by following the procedure
+specified in Article VIII.
    
-
 ### Elections
 
 Elections are held once yearly.
+
 *This article may merely describe the method of elections or appointing any
 committees; or, it may list specific standing committees, their membership, and
 purpose.*
 
 ## Article VI Meetings
+
+Meetings are scheduled by Standard Legislative Process.
+
 *This article should state the method for scheduling regular meeting days and
 hours, and for calling special meetings.*
 
