@@ -125,7 +125,7 @@ As an Open Source community, it is important for us to collaborate with our memb
    * Host presentations, "talks", or other events sharing educational material (which need not necessarily be practical, but can instead be conceptual or simply cool)
    * Propogate the ideals of the Open Source and/or Free software movements
 
-New committees may be created, existing committees may be dissolved, and responsibilities may be added, removed, or adjusted for any committee by following $PROCESS. These changes should be appended to the constitution by following the procedure specified in Article VIII Amendment.
+New committees may be created, existing committees may be dissolved, and responsibilities may be added, removed, or adjusted for any committee by following the Standard Legislative Process (SLP) defined in Article VII Quorum. These changes should be appended to the constitution by following the procedure specified in Article VIII Amendment.
    
 
 ### Elections
