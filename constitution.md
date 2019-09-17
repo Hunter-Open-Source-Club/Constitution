@@ -28,12 +28,6 @@ might be misinterpreted to be free of charge instead of software **free**dom.
 
 ## Article II Purpose
 
-### Inspiration
-
-This club was founded with inspiration from Professor Stewart Weiss, who
-teaches *Open Source Development Workshop* and encouraged the chartering
-process.
-
 ### Ends
 
 The club's primary goals are to...
@@ -68,7 +62,7 @@ To acheive these goals, the club will...
 1. Build, deploy, and maintain an Open Source Club website serving as a central
    hub for resources on and off the campus.
    
-1. Host socaials to promote networking among members and spread the open source
+1. Host socials to promote networking among members and spread the open source
    spirit.
    
 1. Lobby for and consolidate tools for the creation of a makerspace where
@@ -90,14 +84,17 @@ To acheive these goals, the club will...
    regardless of sex, gender identity, sexual orientation, race, ethnicity, or
    disability.
    
-1. Voting membership is granted to all registered members. Registration is
+1. Voting membership is granted to all registered members. The club will
+   maintain a registry of the names of members and their positions as well as
+   the amount of time contributed back to the club, useful for logging
+   extracurricular or volunteer hours.
 
 1. All members should make an effort to participate in the community and commit
    to sharing knowledge for the betterment of the community.
    
-1. Voting membership will be suspended in the case of
+1. Voting membership will be suspended in the case of...
 
-   a. a proceeding of *Popular Referendum* with due process considered. 
+   a. a proceeding of *Popular Referendum* with due process considered,
    
    a. any disciplinary action by Hunter College against a member after due
      process.
@@ -110,6 +107,9 @@ To acheive these goals, the club will...
 Let the words *Executive Board* and *Officers* refer to the members of the
 executive board as defined by Hunter's Club requirements.
 
+Filling any vacancies is subject to *Standard Legislative Process*. Vacancies of
+officers other than the president are filled by presidential appointment.
+
 ### Impeachment
 
 Any Officer may be impeached by vote for not fulfilling duties, or for extended
@@ -118,12 +118,27 @@ action by Hunter College.
 
 ### President
 
-1. Duties
-
-The president may be understood as a trusted mentor or advisor, taking the
+The President may be understood as a trusted mentor or advisor, taking the
 popular action to accelerate progress when consensus is clear. The president
 must honor referendum and call a vote. The president is culpable for all of
-those responsibilities outlined in Hunter College's Club Regulations.
+those responsibilities as outlined in Hunter College's Club Regulations.
+
+The president is responsible for any additional actions needed to ensure the
+club's healthy function. A president automatically resigns after a week of
+unannounced absence during the normal semester.
+
+### Vice President
+
+The Vice President assumes the role of the President and appoints a new Vice
+President in the case of vacancies.
+
+..
+### Secretary
+
+The Secretary's primary role is to confer with the executive board, organize
+meetings, and maintain strong communication between officers and the membership.
+These roles lend well to leadership of the Outreach committee.
+
 
 ## Article V Committees
 
@@ -137,21 +152,20 @@ responsibilities are listed below.
 
    * Maintain the Open Source Club website, with duties including (but not
      limited to) developing new sections/pages, and updating the site with new
-     information
+     information.
 
    * Manage the mailing list and related technologies; formulate and send out
-     emails
+     emails.
 
-   * Manage the club's social media presence and accounts
+   * Manage the club's social media presence and accounts.
 
    * Design visual and/or auditory content representative of the club (e.g.
-     logos, flyers, posters, promotional/infomational videos
+     logos, flyers, posters, promotional/infomational videos.
 
    * Document relevant workshops/presentations in the form of videos or blogs
-     (or other) and publish them online
+     (or other) and publish them online.
 
-   * Reach out to established computer scientists (or other) to come
-     speak/collaborate with the club
+   * Reach out to established industry leaders for club collaboration.
    
 2. Career Preparation Committee
 
