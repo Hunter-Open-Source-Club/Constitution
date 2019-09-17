@@ -107,11 +107,21 @@ To acheive these goals, the club will...
   
 ## Article IV Officers
 
+| Position       | Member            |
+|----------------|-------------------|
+| President      | Ralph Vente       |
+| Vice President | Isabel Abonitalla |
+| Treasurer      | Gillian Pantaleon |
+| Secretary      | Joshua Natis      |
+:  Executive Board for 2019 - 2020 Academic Year
+
 Let the words *Executive Board* and *Officers* refer to the members of the
 executive board as defined by Hunter's Club requirements.
 
 Filling any vacancies is subject to *Standard Legislative Process*. Vacancies of
 officers other than the president are filled by presidential appointment.
+
+All officers need to be elected by the process outlined in *[Elections]*.
 
 ### Impeachment
 
@@ -135,7 +145,6 @@ unannounced absence during the normal semester.
 The Vice President assumes the role of the President and appoints a new Vice
 President in the case of vacancies.
 
-..
 ### Secretary
 
 The Secretary's primary role is to confer with the executive board, organize
@@ -206,8 +215,11 @@ procedure specified in Article VIII.
    
 ### Elections
 
-Elections are a vote held once yearly and according to Hunter College club
-regulations. Committee members are appointed by Standard Legislative Process.
+Elections are a Strict-Majority *[Vote]* (as defined in [Article VII Quorum])
+held once yearly and according to Hunter College club regulations. Committee
+members are appointed by Standard Legislative Process.
+
+All officers are responsible for ensuring a fair vote.
 
 ## Article VI Meetings
 
