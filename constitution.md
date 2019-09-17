@@ -149,6 +149,20 @@ The same president must not serve for more than 2 academic years, ever.
 The Vice President assumes the role of the President and appoints a new Vice
 President in the case of vacancies.
 
+### Treasurer
+
+The Treasurer manages all finances of the Club. The Treasurer keeps strict
+tabulations on the costs of all the Club's endeavors and tracks all incoming and
+outgoing financial transactions, including reimbursement and bill payments. The
+Treasurer receives all monies of the Club and immediately deposits them in the
+name of the Club into its respective coffer and shall remain in the
+self-generated in Hunter College. The Treasurer is responsible for working
+closely with the other Executive Board Officers in determining the allocation of
+the Club's funds. The Treasurer shall also work closely with members of the
+College Association to prepare and maintain the budget. The Treasurer will
+submit budget request(s) in accordance with CA guidelines and policies.
+
+
 ### Secretary
 
 The Secretary's primary role is to confer with the executive board, organize
