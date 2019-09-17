@@ -56,6 +56,8 @@ To acheive these goals, the club will...
 
 ### Allied Goals
 
+Some examples of intermediate goals core to the Club's purpose follow:
+
 1. Maintain a strong presence on social media and in physical advertising to
    allow all Hunter students to benefit from club opportunities.
    
@@ -140,6 +142,8 @@ The president is responsible for any additional actions needed to ensure the
 club's healthy function. A president automatically resigns after a week of
 unannounced absence during the normal semester.
 
+The same president must not serve for more than 2 academic years, ever.
+
 ### Vice President
 
 The Vice President assumes the role of the President and appoints a new Vice
@@ -219,7 +223,8 @@ Elections are a Strict-Majority *[Vote]* (as defined in [Article VII Quorum])
 held once yearly and according to Hunter College club regulations. Committee
 members are appointed by Standard Legislative Process.
 
-All officers are responsible for ensuring a fair vote.
+All officers are responsible for ensuring a fair vote. Nominees running for
+office automatically resign after one week without communication with the club.
 
 ## Article VI Meetings
 
@@ -277,14 +282,18 @@ Bottom-up proceeding, approval is explicit.
 ### Popular Referendum
 
 Unlike *SLP*, *Popular Referendum* is final. First, any more than a
-Strict-Minority may call for a vote. A Super-Majority is then needed to approve
-the vote. .
+Strict-Minority petition may call for for a vote or propose an amendment. A
+Super-Majority is then needed to approve the vote.
 
 ## Article VIII Amendment
 
-Ammendments to the con
-*This article should describe the procedure for proposing and voting upon
-amendments to the constitution.*
+This section only is not amendable. *Amendments to the constitution proceed by
+*Popular Referendum* only. The executive board is responsible for putting any
+proposed amendments (from the first step of Popular Referendum) on the election
+ballot.
+
+Amendments are appended to the end of the constitution and supersede previous
+Articles.
 
 ## Article IX Ideology
 
