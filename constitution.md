@@ -59,6 +59,9 @@ To acheive these goals, the club will...
 1. Maintain a strong presence on social media and in physical advertising to
    allow all Hunter students to benefit from club opportunities.
    
+1. Create instructional videos directly pertinent to Hunter CS and Math Courses
+   and approved by the professors of those classes.
+   
 1. Build, deploy, and maintain an Open Source Club website serving as a central
    hub for resources on and off the campus.
    
