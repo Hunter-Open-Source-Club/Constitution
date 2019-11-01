@@ -14,11 +14,11 @@ when referring to educational documents such as instructional textbooks.
 Standard Legislative Process and Popular Referendum are terms defined in
 [Article VII Quorum].
 
-[^about]: This document was written as a collaboration of the original executive
-  board members. The digital version of this document has an index and links for
-  the names of Articles to make navigation easier. It was written in `markdown`
-  and typeset using \LaTeX{} via `pandoc`. May it set a precedent that these are
-  all Open Source tools.
+[^about]: This document was written as a collaboration effort the original
+  executive board members. The digital version of this document has an index and
+  links for the names of Articles to make navigation easier. It was written in
+  `markdown` and typeset using \LaTeX{} via `pandoc`. May it set a precedent
+  that these are all Open Source tools.
 
 ## Article I Name
 
@@ -135,7 +135,7 @@ executive board as defined by Hunter's Club requirements.
 
 Filling any vacancies is subject to *Standard Legislative Process*. Vacancies of
 officers other than the president are filled by presidential appointment under
-*Standard Legal Process.*
+*Standard Legislative Process.*
 
 All officers need to be elected by the process outlined in *[Elections]*.
 
@@ -156,7 +156,7 @@ The president is responsible for any additional actions needed to ensure the
 club's healthy function. A president automatically resigns after a week of
 unannounced absence during the normal semester. It follows that absences must be
 announced, and the Vice President may be appointed as a provisional president
-until the President's return, subject to *Standard Legal Process.*
+until the President's return, subject to *Standard Legislative Process.*
 
 The same president must not serve for more than 2 academic years.
 
@@ -285,7 +285,7 @@ providing a secure, online option for voting.
 
 The Open Source world thrives in part because of its lack of hierarchy. The
 following is an attempt to redirect power into the hands of the constituency to
-adhere more closely to ideological roots.
+adhere more closely to our ideological roots.
 
 ### Standard Legislative Process
 
@@ -322,7 +322,7 @@ Super-Majority is then needed to approve the vote.
 
 ## Article VIII Amendment
 
-This section only is not amendable. *Amendments to the constitution proceed by
+This section only is not amendable. Amendments to the constitution proceed by
 *Popular Referendum* only. The executive board is responsible for putting any
 proposed amendments (from the first step of Popular Referendum) on the election
 ballot.
