@@ -14,9 +14,9 @@ when referring to educational documents such as instructional textbooks.
 Standard Legislative Process and Popular Referendum are terms defined in
 [Article VII Quorum].
 
-[^about]: This document was written as a collaboration effort the original
+[^about]: This document was written as a collaborative effort the original
   executive board members. The digital version of this document has an index and
-  links for the names of Articles to make navigation easier. It was written in
+  links for the names of Articles facilitate navigation. It was written in
   `markdown` and typeset using \LaTeX{} via `pandoc`. May it set a precedent
   that these are all Open Source tools.
 
@@ -46,8 +46,8 @@ ideology.
 ### Inspiration
 
 This Club was founded with encouragement from Professor Stewart Weiss, who
-teaches *Open Source Development Workshop* and encouraged the chartering
-process. We are listing him as our Faculty Adviser.
+teaches *Open Source Software Development Workshop* and encouraged the chartering
+process. We list him as our Faculty Adviser.
 
 ### Ends
 
